@@ -1,3 +1,5 @@
+// https://leetcode.com/problems/first-bad-version/
+
 import java.util.Scanner;
 
 class VersionControl {

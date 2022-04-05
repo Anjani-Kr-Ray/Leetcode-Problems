@@ -3,12 +3,12 @@
 /CeilingOfANumber.class
 /FindInMountainArray.class
 /FirstAndLastIndexOfNumber.class
-/MountainArray.class
 /FirstBadVersion.class
 /FloorOfANumber.class
 /Guess.class
 /GuessGame.class
 /LinearSearch.class
+/MountainArray.class
 /NextGreatestLetter.class
 /PeakIndexInMountainArray.class
 /PositionOfNumberInInfiniteArray.class
@@ -18,3 +18,4 @@
 /SplitArray.class
 /SquareRoot.class
 /VersionControl.class
+/SearchInMatrix.class

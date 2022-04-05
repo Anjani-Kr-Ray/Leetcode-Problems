@@ -1,5 +1,3 @@
-// qhxmn7ldaep6i3t4ftf4ic6dpb2g7mf7
-
 import java.util.Scanner;
 
 public class BinarySearch {
