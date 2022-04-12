@@ -1,6 +1,6 @@
 // https://leetcode.com/problems/container-with-most-water/
 
-package com.two_pointers.arrays;
+
 
 import java.util.Scanner;
 public class ContainerWithMostWater {
