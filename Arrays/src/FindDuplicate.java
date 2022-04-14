@@ -60,8 +60,8 @@ public class FindDuplicate {
      * before by flipping the sign of the number located at index |num|.
      * 
      * For example, if the input array is [1, 3, 3, 2], then for 1, flip the number at index 1, making 
-     * the array [1,-3,3,2]. Next, for −3 flip the number at index 33, making the array [1,−3,3,−2]. 
-     * Finally, when we reach the second 33, we'll notice that nums[3] is already negative, 
+     * the array [1,-3,3,2]. Next, for −3 flip the number at index 3, making the array [1,−3,3,−2]. 
+     * Finally, when we reach the second 3, we'll notice that nums[3] is already negative, 
      * indicating that 3 has been seen before and hence is the duplicate number.
      * 
      * Time Complexity: O(n)
